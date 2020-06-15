@@ -13,5 +13,5 @@ To create new branch in remote repository -> git push -u origin branch-name
 To remove branch in remote repo => git push --delete origin branch-name
 To rebase a branch -> git rebase branch-name
 To rebase mulitple commits -> git rebase -i master (squaf)
-to force git to push => git push -f
-to pull repository => git pull
+To force git to push => git push -f
+To pull repository => git pull
