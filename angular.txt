@@ -1,0 +1,17 @@
+*ngIf-> to hide a content
+
+< *ngIf="class; else blockName">
+<ng-template #blockname>
+</ng-template>
+
+<*ngIf="class; then blockName; else blockName">
+
+<div [ngswitch]="color">
+    <div *ngSwitchCase="'red'"> picked red </div>
+    <div *ngSwitchCase="'blue'"> picked blue </div>
+</div>
+
+<div *ngFor="let color of colors; index as i">
+{{i}} {{color}}
+</div>
+
