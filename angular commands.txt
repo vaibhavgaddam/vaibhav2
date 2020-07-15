@@ -1,0 +1,3 @@
+ANGULAR COMMANDS
+To create new angular project:- ng new project_name
+To start project:- ng serve
