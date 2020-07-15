@@ -1,3 +1,4 @@
+To add all files -> git add .
 To add and commit in one line->git commit -a -m "commit message"
 To show the braches-> git branch
 To crate new branch-> git branch branch-name
