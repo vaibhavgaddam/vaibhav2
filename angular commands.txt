@@ -1,3 +1,5 @@
 ANGULAR COMMANDS
 To create new angular project:- ng new project_name
 To start project:- ng serve
+To create a component :- ng g component component_name
+To create a module :- ng g module module_name
